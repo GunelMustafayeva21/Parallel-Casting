@@ -1,0 +1,8 @@
+C:\Users\Hp\source\repos\CastingHomeTask\CastingHomeTask\bin\Debug\CastingHomeTask.exe.config
+C:\Users\Hp\source\repos\CastingHomeTask\CastingHomeTask\bin\Debug\CastingHomeTask.exe
+C:\Users\Hp\source\repos\CastingHomeTask\CastingHomeTask\bin\Debug\CastingHomeTask.pdb
+C:\Users\Hp\source\repos\CastingHomeTask\CastingHomeTask\obj\Debug\CastingHomeTask.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\CastingHomeTask\CastingHomeTask\obj\Debug\CastingHomeTask.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hp\source\repos\CastingHomeTask\CastingHomeTask\obj\Debug\CastingHomeTask.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\CastingHomeTask\CastingHomeTask\obj\Debug\CastingHomeTask.exe
+C:\Users\Hp\source\repos\CastingHomeTask\CastingHomeTask\obj\Debug\CastingHomeTask.pdb
